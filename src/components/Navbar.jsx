@@ -4,6 +4,7 @@ import brendinLogosu from '../assets/images/logo.svg'
 
 import { AiOutlineBars } from "react-icons/ai"
 import {GiCrossedSwords} from 'react-icons/gi'
+import Button from './Button'
 
 
 
@@ -83,7 +84,9 @@ const Navbar = () => {
       
        
       </ul>
-     <button className="btn btn-primary">Sign In</button>
+      {/* buraya Button komponenti gelecek */}
+      <Button butonunIcindekiDeyer="Sign In" klassAdi="btn btn-info"/>
+     
     </div>
   </div>
 </nav>

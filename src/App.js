@@ -2,12 +2,13 @@ import 'bootstrap/dist/css/bootstrap.min.css'
 
 import './App.css';
 import Navbar from './components/Navbar';
-import Footer from './components/Footer'
+import Introduction from './components/İntroduction';
 
 function App() {
   return (
     <>
     <Navbar />
+    <Introduction />
  
     </>
 

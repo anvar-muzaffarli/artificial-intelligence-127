@@ -1,0 +1,28 @@
+.intro-left-side {
+    padding-top: 160px;
+}
+
+
+.introduction-section {
+    padding: 20px 307px;
+}
+
+
+@media(max-width:1330px) {
+    
+.introduction-section {
+    padding: 20px 100px;
+}
+
+}
+
+@media(max-width:768px) {
+    .introduction-section {
+        padding: 20px;
+    }
+}
+
+.yazieffekti {
+    font-size: 37px;
+    color:#fff;
+}

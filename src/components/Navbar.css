@@ -98,7 +98,7 @@ transition: color 1.7s ease;
 .cross-icon {
     position: absolute;
     right: 45px;
-    top: 45px;
+    top: 45px
 }
 
 .cross-icon:hover {
