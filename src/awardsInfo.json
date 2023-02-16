@@ -1,0 +1,32 @@
+[
+   {
+    "meqaleninBasligi" :"lorem ispum" ,
+    "meqaleninMetni": "lorem ipsum dolor sit amet",
+    "shekil" : "https://res.cloudinary.com/derzgbs7x/image/upload/v1675511113/welcome-3_1_od9cpu.png"
+   },
+
+   {
+    "meqaleninBasligi" :"lorem ispum2" ,
+    "meqaleninMetni": "lorem ipsum dolor sit amet 2",
+    "shekil" : "https://res.cloudinary.com/derzgbs7x/image/upload/v1675511113/welcome-3_1-1_zksb7b.png"
+   },
+
+   {
+    "meqaleninBasligi" :"lorem ispum3" ,
+    "meqaleninMetni": "lorem ipsum dolor sit amet 3",
+    "shekil" : "https://res.cloudinary.com/derzgbs7x/image/upload/v1675511113/welcome-3_1_od9cpu.png"
+   },
+
+   {
+    "meqaleninBasligi" :"lorem ispum4" ,
+    "meqaleninMetni": "lorem ipsum dolor sit amet 4",
+    "shekil" : "https://res.cloudinary.com/derzgbs7x/image/upload/v1675511113/welcome-3_1_od9cpu.png"
+   },
+
+   {
+    "meqaleninBasligi" :"lorem ispum5" ,
+    "meqaleninMetni": "lorem ipsum dolor sit amet5",
+    "shekil" : "https://res.cloudinary.com/derzgbs7x/image/upload/v1675511113/welcome-3_1_od9cpu.png"
+   }
+  
+]
