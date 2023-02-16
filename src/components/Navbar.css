@@ -104,3 +104,26 @@ transition: color 1.7s ease;
 .cross-icon:hover {
     color:#fff;
 }
+
+.nav-link {
+    position: relative;
+    margin-right: 7px;
+
+}
+
+.nav-link::before {
+   content:"";
+   position: absolute;
+   bottom: 0;
+   width: 100%;
+   background-color: #fff;
+   height:4px;
+   transform-origin: right;
+   transform: scaleX(0);
+   transition: transform 1.4s ease;
+}
+
+.nav-link:hover::before {
+    transform-origin: left;
+    transform: scaleX(1);
+}

@@ -27,6 +27,13 @@
     "meqaleninBasligi" :"lorem ispum5" ,
     "meqaleninMetni": "lorem ipsum dolor sit amet5",
     "shekil" : "https://res.cloudinary.com/derzgbs7x/image/upload/v1675511113/welcome-3_1_od9cpu.png"
-   }
+   },
+
+   {
+      "meqaleninBasligi" :"lorem ispum6" ,
+      "meqaleninMetni": "lorem ipsum dolor sit amet6",
+      "shekil" : "https://res.cloudinary.com/derzgbs7x/image/upload/v1675511113/welcome-3_1_od9cpu.png"
+     }
+    
   
 ]

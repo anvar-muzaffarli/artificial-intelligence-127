@@ -9,7 +9,7 @@ const Award = ({kartinBasligi, meqaleKartininShekli, meqaleMetniProps}) => {
   <div className="card-body">
     <h5 className="card-title">{kartinBasligi}</h5>
     <p className="card-text">{meqaleMetniProps}</p>
-    <a href="#" className="btn btn-primary">Go somewhere</a>
+   
   </div>
 </div>
   )

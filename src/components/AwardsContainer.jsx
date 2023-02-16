@@ -1,13 +1,13 @@
 import React from 'react'
 import Award from './Award'
 
-import mukafatMelumatlari from '../awardsInfo.json'
+import data from '../awardsInfo.json'
 
 const AwardsContainer = () => {
   return (
     <div className='row awards-container'>
     {
-        mukafatMelumatlari.map(melumat => (
+        data.map(melumat => (
             <Award kartinBasligi= {melumat.meqaleninBasligi} meqaleKartininShekli={melumat.shekil} meqaleMetniProps = {melumat.meqaleninMetni} />
         ) )
     }
